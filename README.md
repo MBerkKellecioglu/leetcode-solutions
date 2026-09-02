@@ -7,12 +7,6 @@
 
 A growing archive of my accepted [LeetCode](https://leetcode.com/Tractaz/) solutions, preserving the original submission timeline.
 
-## Find a solution
-
-[**Search this repository →**](https://github.com/search?q=repo%3AMBerkKellecioglu%2Fleetcode-solutions&type=code)
-
-You can search by problem number, title, slug, language, or a code fragment. On the repository page, press <kbd>t</kbd> to open GitHub's file finder and start typing a problem name or number.
-
 ## Repository structure
 
 Each accepted problem has its own directory:
