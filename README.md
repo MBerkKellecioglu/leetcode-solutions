@@ -1,0 +1,44 @@
+# LeetCode Solutions
+
+![Solutions](https://img.shields.io/badge/solutions-711-2ea44f?style=for-the-badge)
+![C++](https://img.shields.io/badge/C%2B%2B-385-00599C?style=for-the-badge&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-302-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-24-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+A growing archive of my accepted [LeetCode](https://leetcode.com/Tractaz/) solutions, preserving the original submission timeline.
+
+## Find a solution
+
+[**Search this repository →**](https://github.com/search?q=repo%3AMBerkKellecioglu%2Fleetcode-solutions&type=code)
+
+You can search by problem number, title, slug, language, or a code fragment. On the repository page, press <kbd>t</kbd> to open GitHub's file finder and start typing a problem name or number.
+
+## Repository structure
+
+Each accepted problem has its own directory:
+
+```text
+<problem-number>-<problem-slug>/
+└── solution.<language-extension>
+```
+
+Examples:
+
+- `1-two-sum/solution.cpp`
+- `104-maximum-depth-of-binary-tree/solution.py`
+- `175-combine-two-tables/solution.sql`
+
+## Languages
+
+| Language | Solutions |
+|---|---:|
+| C++ | 385 |
+| Python | 302 |
+| SQL | 24 |
+| **Total** | **711** |
+
+## About
+
+The solutions in this repository reflect my own learning process. They favor clarity and practical problem-solving, and may evolve as I revisit problems and discover better approaches.
+
+> Problem statements belong to LeetCode. This repository contains solution code only.
