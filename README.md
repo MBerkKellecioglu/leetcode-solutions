@@ -1,9 +1,9 @@
 # LeetCode Solutions
 
-![Solutions](https://img.shields.io/badge/solutions-722-2ea44f?style=for-the-badge)
+![Solutions](https://img.shields.io/badge/solutions-731-2ea44f?style=for-the-badge)
 ![C++](https://img.shields.io/badge/C%2B%2B-389-00599C?style=for-the-badge&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-309-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-24-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-317-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-25-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 A growing archive of my accepted [LeetCode](https://leetcode.com/Tractaz/) solutions, preserving the original submission timeline.
 
@@ -27,9 +27,9 @@ Examples:
 | Language | Solutions |
 |---|---:|
 | C++ | 389 |
-| Python | 309 |
-| SQL | 24 |
-| **Total** | **722** |
+| Python | 317 |
+| SQL | 25 |
+| **Total** | **731** |
 
 ## About
 
